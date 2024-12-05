@@ -18,7 +18,7 @@ If you're looking for a new way to build with data, check out Snowflake's challe
 
 #### Objectives: 
 * Find out first hand how easy it is to get started with Snowflake.
-* Create your free student account using teh [Snowflake Signup Page](https://mlh.link/ghwdata1224-Snowflake-signup).
+* Create your free student account using the [Snowflake Signup Page](https://mlh.link/ghwdata1224-Snowflake-signup).
 * Share a screenshot of your account home page on our [submission form](https://mlh.link/ghwform)! 
 
 ## Challenge 2 

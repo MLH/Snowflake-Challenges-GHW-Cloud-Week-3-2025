@@ -1,0 +1,1 @@
+# Snowflake-Challenges-GHW-Data-Week-2024

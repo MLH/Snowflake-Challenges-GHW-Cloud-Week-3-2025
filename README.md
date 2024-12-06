@@ -45,5 +45,4 @@ If you're looking for a new way to build with data, check out Snowflake's challe
 ### Use Snowflake to complete any of this week's challenges
 #### Objectives: 
 * Snowflake is a great tool for data that you can apply to a bunch of our other GHW challenges. 
-* Share your code on our [Devpost Page](https://mlh.link/ghwdevpost)!
-* Or share a screenshot on our [submission form](https://mlh.link/ghwform)! 
+* Share a screenshot on our [submission form](https://mlh.link/ghwform)! 

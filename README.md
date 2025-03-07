@@ -25,22 +25,22 @@ If you're looking for a new way to build with data, check out Snowflake's challe
 ### Interact with the Snowflake Community
 
 #### Objectives: 
-* Join snowflake developer community and post an intro on the [Data Week event thread](https://mlh.link/ghwcloud325-snowflake-discourse).
+* Join snowflake developer community and post an intro on the [GHW event thread](https://mlh.link/ghwcloud325-snowflake-discourse).
 * Share a screenshot on our [submission form](https://mlh.link/ghwform)! 
 
 ## Challenge 3 
 ### Complete introductory quickstart from workshop
 #### Objectives: 
 * Attend the Snowflake ["How to build an LLM-powered Agent in < 5 minutes on Snowflake" workshop](https://mlh.link/ghwcloud325-snowflake-workshop) on Day 1 of GHW Data Week! 
-* Couldn't join? No problem! View the workshop recording on the [MLH Youtube Channel](https://www.youtube.com/@MajorLeagueHacking).
+* Couldn't join? No problem! View the workshop recording on the [MLH Youtube Channel](https://www.youtube.com/@MajorLeagueHacking) or check out the workshop repository [here](https://mlh.link/ghwcloud325-snowflake-github). 
 * Complete the introductory quickstart using the workshop's step by step instructions and submit your solution to our [Devpost Page](https://mlh.link/ghwdevpost)! 
 
 ## Challenge 4 
 ### End to end LLM challenge
 #### Objectives: 
-* Complete the following [Snowflake community challenge](ghwcloud325-snowflake-llm) and submit your solution to our [Devpost Page](https://mlh.link/ghwdevpost)! 
+* Complete the following [Snowflake community challenge](https://mlh.link/ghwcloud325-snowflake-cortex) and submit your solution to our [Devpost Page](https://mlh.link/ghwdevpost)! 
 * HINT: Check out Snowflake's [second workshop](https://mlh.link/ghwcloud325-Snowflake-workshop2) for a walk-through on how to complete this challenge.
-  * Couldn't join? No problem! View the workshop recording on the [MLH Youtube Channel](https://www.youtube.com/@MajorLeagueHacking).
+  * Couldn't join? No problem! View the workshop recording on the [MLH Youtube Channel](https://www.youtube.com/@MajorLeagueHacking) or check out the workshop repository [here](https://mlh.link/ghwcloud325-snowflake-github2).
 
 ## Challenge 5
 ### Use Snowflake to complete any of this week's challenges
